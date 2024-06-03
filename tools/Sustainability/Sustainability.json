@@ -1,7 +1,7 @@
 {
   "name": "8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
   "displayName": "Sustainability",
-  "description": "Collection of documents about Sustainable Development Goals and sustainability in general",
+  "description": "Collection of documents about Sustainable Development Goals, sustainable engineering, sustainable apparel, generic sustainability knowledge",
   "actions": [ "Sustainability" ],
   "dataStoreSpec": {
     "dataStoreConnections": [ {
@@ -11,7 +11,7 @@
     } ],
     "models": {
       "summarizationModel": {
-        "model": "gemini_pro"
+        "model": "gemini_15_flash_001"
       }
     },
     "fallbackPrompt": {

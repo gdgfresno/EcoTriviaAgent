@@ -46,8 +46,11 @@
       "text": "{\"question\": \"What is the percentage of the world's population that has access to electricity?\", \"choices\": [{\"choice\": \"80%\", \"correct\": false}, {\"choice\": \"90.1%\", \"correct\": true}, {\"choice\": \"95%\", \"correct\": false}, {\"choice\": \"100%\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The percentage of the world's population that has access to electricity is close to 90%.\"}, {\"hint_type\": \"specific\", \"hint\": \"The percentage of the world's population that has access to electricity is slightly higher than 90%.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2022 Extended Report Goal 7.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on access to electricity.\"}]}"
     }
   } ],
+  "playbookOutput": {
+    "executionSummary": "A structured response which provides a unique trivia question with four possible choices marking the correct answer, and four specific hints about the correct choice."
+  },
   "displayName": "SDG electricity trivia",
   "retrievalStrategy": "DEFAULT",
-  "conversationState": "OUTPUT_STATE_PENDING",
+  "conversationState": "OUTPUT_STATE_OK",
   "languageCode": "en"
 }

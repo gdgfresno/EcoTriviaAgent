@@ -46,8 +46,11 @@
       "text": "{\"question\": \"What percentage of the world's population lacks access to safely managed sanitation services?\", \"choices\": [{\"choice\": \"10%\", \"correct\": false}, {\"choice\": \"25%\", \"correct\": true}, {\"choice\": \"50%\", \"correct\": false}, {\"choice\": \"75%\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The percentage of the world's population that lacks access to safely managed sanitation services is less than 50%.\"}, {\"hint_type\": \"specific\", \"hint\": \"The percentage of the world's population that lacks access to safely managed sanitation services is between 20% and 30%.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainable Development Goals 2018 Report.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the section on Sustainable Development Goal 6.\"}]}"
     }
   } ],
+  "playbookOutput": {
+    "executionSummary": "A structured response which provides a unique trivia question with four possible choices marking the correct answer, and four specific hints about the correct choice."
+  },
   "displayName": "SDG 6 numeric trivia",
   "retrievalStrategy": "DEFAULT",
-  "conversationState": "OUTPUT_STATE_PENDING",
+  "conversationState": "OUTPUT_STATE_OK",
   "languageCode": "en"
 }

@@ -46,8 +46,11 @@
       "text": "{\"question\": \"What is the most common type of plastic produced in the world?\", \"choices\": [{\"choice\": \"Polyethylene (PE)\", \"correct\": true}, {\"choice\": \"Polypropylene (PP)\", \"correct\": false}, {\"choice\": \"Polyvinyl chloride (PVC)\", \"correct\": false}, {\"choice\": \"Polyethylene terephthalate (PET)\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The most common type of plastic is used in a wide variety of applications, including packaging, construction, and automotive parts.\"}, {\"hint_type\": \"specific\", \"hint\": \"The most common type of plastic is a thermoplastic, which means that it can be melted and reshaped multiple times.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainability E-book for students.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the Introduction to sustainability section of the Sustainability E-book for students.\"}]}"
     }
   } ],
+  "playbookOutput": {
+    "executionSummary": "A structured response which provides a unique trivia question with four possible choices marking the correct answer, and four specific hints about the correct choice."
+  },
   "displayName": "Student ebook trivia 2",
   "retrievalStrategy": "DEFAULT",
-  "conversationState": "OUTPUT_STATE_PENDING",
+  "conversationState": "OUTPUT_STATE_OK",
   "languageCode": "en"
 }

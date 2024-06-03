@@ -46,8 +46,11 @@
       "text": "{\"question\": \"What is the most abundant element in the universe?\", \"choices\": [{\"choice\": \"Hydrogen\", \"correct\": true}, {\"choice\": \"Helium\", \"correct\": false}, {\"choice\": \"Carbon\", \"correct\": false}, {\"choice\": \"Oxygen\", \"correct\": false}], \"hints\": [{\"hint_type\": \"basic\", \"hint\": \"The most abundant element in the universe is a gas that is essential for life.\"}, {\"hint_type\": \"specific\", \"hint\": \"The most abundant element in the universe is the lightest element on the periodic table.\"}, {\"hint_type\": \"source\", \"hint\": \"The answer to the trivia can be found in the Sustainability E-book for students.\"}, {\"hint_type\": \"source_part\", \"hint\": \"The answer can be found in the Introduction to sustainability section of the Sustainability E-book for students.\"}]}"
     }
   } ],
+  "playbookOutput": {
+    "executionSummary": "A structured response which provides a unique trivia question with four possible choices marking the correct answer, and four specific hints about the correct choice."
+  },
   "displayName": "Student ebook trivia 1",
   "retrievalStrategy": "DEFAULT",
-  "conversationState": "OUTPUT_STATE_PENDING",
+  "conversationState": "OUTPUT_STATE_OK",
   "languageCode": "en"
 }
