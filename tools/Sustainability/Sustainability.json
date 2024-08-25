@@ -2,7 +2,6 @@
   "name": "8dce7fd4-a819-4bc4-ae1a-bb8506a68aeb",
   "displayName": "Sustainability",
   "description": "Collection of documents about Sustainable Development Goals, sustainable engineering, sustainable apparel, generic sustainability knowledge",
-  "actions": [ "Sustainability" ],
   "dataStoreSpec": {
     "dataStoreConnections": [ {
       "dataStoreType": "UNSTRUCTURED",
